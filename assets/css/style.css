@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Courier Prime', monospace;
+    font-style: normal;
+    font-weight: 400;
+    src: local('Courier Prime'), url(/_js/Tag_61_Morse-Code/assets/fonts/Courier_Prime/CourierPrime-Regular.ttf);
+}
+article {
+    font-family: 'Courier Prime', monospace !important;
+    font-size: 18px!important;
+}
+article:first-of-type {
+    position: absolute;
+    margin-left: 75%;
+}
